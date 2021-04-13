@@ -6,17 +6,20 @@ main:
   - title: "讲座"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "教学"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "相关报道"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "在读研究生"
+    url: /markdown/
+    
+  - title: "招生信息"
     url: /markdown/
