@@ -36,29 +36,7 @@ redirect_from:
 * [许智（硕士）](https://xuzhi0413.github.io/)
 * [谢中祥（硕士）](https://zxxie-air.github.io/Page)
 
-* 李冬（博士）：http://lidong.academic.site
-* 潘家文（博士）：https://pjw2146087.github.io/homepage/
-* 许智（硕士）：https://xuzhi0413.github.io/
-* 谢中祥（硕士）：https://zxxie-air.github.io/Page
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
