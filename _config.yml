@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
 
-# wyj-5-18-
+
 
 # Reading Files
 include:
@@ -173,7 +173,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# wyj-5-18-
+
 # Collections
 collections:
   teaching:
