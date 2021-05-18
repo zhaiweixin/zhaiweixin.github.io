@@ -10,13 +10,13 @@ redirect_from:
 
 
 
-政治面貌：中国共产党党员
-联系电话：
-电子邮箱：zhaiweixin@cau.edu.cn
-办公地址：信电楼717
-通讯地址：北京市海淀区清华东路17号，中国农业大学信息与电气工程学院
-邮编：100083
-传真：
+政治面貌：中国共产党党员  
+联系电话：  
+电子邮箱：zhaiweixin@cau.edu.cn  
+办公地址：信电楼717  
+通讯地址：北京市海淀区清华东路17号，中国农业大学信息与电气工程学院  
+邮编：100083  
+传真：  
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
@@ -24,7 +24,7 @@ This is the front page of a website that is powered by the [academicpages templa
 教育经历
 ======
 
-2013.09.03-2018.07.06，理学博士学位，北京大学，地图学与地理信息系统
+2013.09.03-2018.07.06，理学博士学位，北京大学，地图学与地理信息系统  
 2009.09.05-2013.07.05，理学学士学位，北京大学，地图学与地理信息系统
 
 
