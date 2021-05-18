@@ -15,11 +15,10 @@ main:
   - title: "相关报道"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "个人概况"
     url: /cv/
     
-  - title: "在读研究生"
-    url: /markdown/
+  
     
   - title: "招生信息"
     url: /markdown/
