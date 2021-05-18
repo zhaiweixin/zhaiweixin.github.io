@@ -9,16 +9,14 @@ main:
   - title: "教学"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "相关报道"
-    url: /year-archive/
+ # - title: "相关报道"
+ #  url: /year-archive/
     
   - title: "个人概况"
     url: /cv/
-    
-  
     
   - title: "招生信息"
     url: /markdown/
