@@ -14,4 +14,4 @@ citation: 'Zhai W, Cheng C. Vagueness in spatial data: A grid-coding approach[C]
 
 <!--[Download paper here](http://academicpages.github.io/files/paper1.pdf)-->
 
-Recommended citation: Zhai W, Cheng C. Vagueness in spatial data: A grid-coding approach[C]. proceedings of the 2014 IEEE Geoscience and Remote Sensing Symposium, 2014. IEEE.
+<!--Recommended citation: Zhai W, Cheng C. Vagueness in spatial data: A grid-coding approach[C]. proceedings of the 2014 IEEE Geoscience and Remote Sensing Symposium, 2014. IEEE.-->
