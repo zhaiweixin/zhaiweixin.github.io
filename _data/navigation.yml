@@ -10,8 +10,8 @@ main:
   - title: "讲座"
     url: /talks/    
 
-  - title: "教学"
-    url: /teaching/    
+  #- title: "教学"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
