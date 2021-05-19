@@ -12,4 +12,4 @@ citation: 'Jing Y, Cheng C, Zhang B, et al. Geographic spatial semantic translat
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf) -->
 
-Recommended citation: Jing Y, Cheng C, Zhang B, et al. Geographic spatial semantic translation method using subdivision grid coding[C]. proceedings of the 2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2015. IEEE.
+<!--Recommended citation: Jing Y, Cheng C, Zhang B, et al. Geographic spatial semantic translation method using subdivision grid coding[C]. proceedings of the 2015 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2015. IEEE.-->
