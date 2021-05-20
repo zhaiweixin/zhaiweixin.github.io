@@ -4,11 +4,11 @@ main:
   - title: "个人概况"
     url: /cv/
     
-  - title: "发表"
+  - title: "论文"
     url: /publications/
 
-  - title: "讲座"
-    url: /talks/    
+  #- title: "讲座"
+  #  url: /talks/    
 
   #- title: "教学"
   #  url: /teaching/    
