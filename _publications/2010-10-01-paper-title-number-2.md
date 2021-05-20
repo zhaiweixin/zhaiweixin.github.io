@@ -6,7 +6,7 @@ excerpt: <!-- 'TIn the application of geographic data inquiry, traditional searc
 date:  2015-01-01
 venue: 'IEEE International Geoscience and Remote Sensing Symposium (IGARSS)'
 paperurl: <!--'http://academicpages.github.io/files/paper2.pdf'-->
-citation: 'Jing Yan, Cheng Chengqi ,Zhang Beitong, <u>Zhai Weixin</u>, et al. Geographic spatial semantic translation method using subdivision grid coding[C]. proceedings of the 2015 <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i>, 2015. IEEE.'
+citation: 'Jing Yan, Cheng Chengqi ,Zhang Beitong, <b>Zhai Weixin</b>, et al. Geographic spatial semantic translation method using subdivision grid coding[C]. proceedings of the 2015 <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i>, 2015. IEEE.'
 ---
 <!--This paper is about the number 2. The number 3 is left for future work.-->
 
