@@ -7,7 +7,7 @@ date: 2014-01-01
 venue: 'IEEE Geoscience and Remote Sensing Symposium'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: '\<u>Zhai W\</u>, Cheng C. Vagueness in spatial data: A grid-coding approach[C]. proceedings of the 2014 IEEE Geoscience and Remote Sensing Symposium, 2014. IEEE.'
+citation: '\<u>Zhai W\</u>, Cheng C. Vagueness in spatial data: A grid-coding approach[C]. proceedings of the 2014 \<i>IEEE Geoscience and Remote Sensing Symposium\</i>, 2014. IEEE.'
 ---
 
 <!--This paper is about the number 1. The number 2 is left for future work.-->
