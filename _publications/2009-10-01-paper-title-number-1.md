@@ -2,7 +2,7 @@
 title: "VAGUENESS IN SPATIAL DATA: A GRID-CODING APPROACH"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper proposes a new method to express geographical objects. The method is based on GeoSOT global subdivision model. With a number of advantages of this model,our method is equipped with accuracy and concision. In addition, we focus on the geographical topology relation computation, the superiority of our method is also obvious.'
+excerpt: 'Abstract:This paper proposes a new method to express geographical objects. The method is based on GeoSOT global subdivision model. With a number of advantages of this model,our method is equipped with accuracy and concision. In addition, we focus on the geographical topology relation computation, the superiority of our method is also obvious.'
 date: 2014-01-01
 venue: 'IEEE Geoscience and Remote Sensing Symposium'
 
