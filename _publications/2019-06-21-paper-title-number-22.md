@@ -1,4 +1,4 @@
- ---
+---
 title: "A Low-Altitude Flight Conflict Detection Algorithm Based on a Multilevel Grid Spatiotemporal Index"
 collection: publications
 permalink: /publication/2019-06-21-paper-title-number-22
