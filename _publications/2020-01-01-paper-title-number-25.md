@@ -1,4 +1,4 @@
- ---
+---
 title: "Identifying Shrinking Cities with NPP-VIIRS Nightlight_ Data in China"
 collection: publications
 permalink: /publication/2020-01-01-paper-title-number-25
