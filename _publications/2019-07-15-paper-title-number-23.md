@@ -1,4 +1,4 @@
- ---
+---
 title: "Collision Detection for UAVs Based on GeoSOT-3D Grids"
 collection: publications
 permalink: /publication/2019-07-15-paper-title-number-23
