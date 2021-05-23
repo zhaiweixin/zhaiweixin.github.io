@@ -1,4 +1,4 @@
- ---
+---
 title: "中国 PM_ (2.5) 污染空间分布的社会经济影响因素分析"
 collection: publications
 permalink: /publication/2018-05-01-paper-title-number-20
