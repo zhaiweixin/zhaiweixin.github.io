@@ -1,7 +1,7 @@
 ---
 title: "An improved method for the unique code of spatial entity based on global subdivision grid"
 collection: publications
-permalink: /publication/2017-01-01-paper-title-number-11
+permalink: /publication/2017-01-01-paper-title-number-12
 excerpt: ''
 date: 2017-01-01
 venue: 'IEEE International Geoscience and Remote Sensing Symposium (IGARSS)'
