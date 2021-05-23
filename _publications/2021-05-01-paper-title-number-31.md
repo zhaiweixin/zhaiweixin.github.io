@@ -1,4 +1,4 @@
- ---
+---
 title: "Multiscale Spatial Polygonal Object Granularity Factor Matching Method Based on BPNN"
 collection: publications
 permalink: /publication/2021-05-01-paper-title-number-31
