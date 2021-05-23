@@ -1,4 +1,4 @@
- ---
+---
 title: "Social Media Discourse in Disaster Situations A Study of the Deadly July 21, 2012 Beijing Rainstorm"
 collection: publications
 permalink: /publication/2017-11-07-paper-title-number-16
