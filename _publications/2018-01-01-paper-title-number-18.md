@@ -1,4 +1,4 @@
- ---
+---
 title: "A Grid-Based Identification Code for Buildings Perspective from Spatial Fault Tolerance"
 collection: publications
 permalink: /publication/2018-01-01-paper-title-number-18
