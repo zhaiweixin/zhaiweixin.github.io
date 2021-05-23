@@ -1,7 +1,7 @@
 ---
 title: "A fast UAV image stitching method on GeoSOT"
 collection: publications
-permalink: /publication/2015-01-01-paper-title-number-2
+permalink: /publication/2015-01-01-paper-title-number-3
 excerpt: 'Currently the UAV photographic data is unstable, 
 turbulent and inaccurate, and these flaws make image 
 stitching difficult. This paper proposed an innovative fast
