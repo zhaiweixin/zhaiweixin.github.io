@@ -7,7 +7,7 @@ date: 2021-04-14
 venue: 'PLOS ONE'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: '<b>Zhai Weixin</b>, Han Bing, Li Dong, Duan Jiexiong, Cheng Chengqi. A low-altitude public air route network for UAV management constructed by global subdivision grids [J]. <i>PLoS ONE</i>, 2021, 16(4): e0249680.'
+citation: '<b>Zhai Weixin</b>, Han Bing, Li Dong, Duan Jiexiong, Cheng Chengqi. A low-altitude public air route network for UAV management constructed by global subdivision grids [J]. <i>PLOS ONE</i>, 2021, 16(4): e0249680.'
 ---
 
 
