@@ -1,4 +1,4 @@
- ---
+---
 title: "基于Landsat影像的雄安新区2014～2018年土地利用变化检测"
 collection: publications
 permalink: /publication/2019-08-01-paper-title-number-24
