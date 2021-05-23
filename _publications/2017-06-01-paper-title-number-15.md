@@ -1,4 +1,4 @@
- ---
+---
 title: "一种空间权重矩阵的优化方法"
 collection: publications
 permalink: /publication/2017-06-01-paper-title-number-15
