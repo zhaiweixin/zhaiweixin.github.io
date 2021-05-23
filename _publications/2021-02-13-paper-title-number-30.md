@@ -3,7 +3,7 @@ title: "Multiscale Spatial Polygonal Object Granularity Factor Matching Method B
 collection: publications
 permalink: /publication/2021-02-13-paper-title-number-30
 excerpt: ''
-date: 2021-05-01
+date: 2021-02-13
 venue: 'ISPRS International Journal of Geo-Information'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
