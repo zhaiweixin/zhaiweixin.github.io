@@ -1,7 +1,7 @@
 # main links links
 main:
 
-  - title: "个人概况"
+   - title: "个人概况"
     url: /cv/
     
   - title: "论文"
