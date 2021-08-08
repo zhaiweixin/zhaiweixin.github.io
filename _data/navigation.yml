@@ -1,7 +1,7 @@
 # main links links
 main:
 
-   - title: "个人概况"
+  - title: "个人概况"
     url: /cv/
     
   - title: "论文"
@@ -17,9 +17,9 @@ main:
     url: /portfolio/
         
   - title: "相关报道"
-   url: /year-archive/
+    url: /year-archive/
     
+
     
   - title: "招生信息"
     url: /markdown/
-
