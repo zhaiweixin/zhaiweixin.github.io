@@ -65,7 +65,7 @@ author_profile: true
         </tr>
     </table>
 
-<table>
+<table style="margin:0;padding:0;border:0;">
 <tr>
   <td>100</td>
   <td>200</td>
