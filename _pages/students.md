@@ -38,7 +38,7 @@ author_profile: true
 
 
 
-<table  boder="0" margin="0" padding="0">
+<table  style="margin:0;padding:0;border:0;">
         <tr>
             <th>设备</th>
             <th>设备文件名</th>
