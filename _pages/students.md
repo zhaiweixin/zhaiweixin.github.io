@@ -66,10 +66,10 @@ author_profile: true
     </table>
 
 <table style="margin:0;padding:0;border:0;">
-        <tr>
-          <td>100</td>
-          <td>200</td>
-          <td>300</td>
+        <tr style="margin:0;padding:0;border:0;">
+          <td style="margin:0;padding:0;border:0;">100</td>
+          <td style="margin:0;padding:0;border:0;">200</td>
+          <td style="margin:0;padding:0;border:0;">300</td>
         </tr>
         <tr>
           <td>400</td>
