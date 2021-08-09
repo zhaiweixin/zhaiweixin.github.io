@@ -29,5 +29,30 @@ author_profile: true
 | 中国农业大学URP计划  | 一种基于夜光遥感影像的新冠肺炎对各国经济发展水平影响的定量化评估方法 | 邵柏豪、邢纪琛、周仲䶮、李好 | 2021-2022 |
 | 中国农业大学URP计划  | 基于深度学习的人群活动空间分布 | 张津铭、韦昌晖、刘奥 | 2021-2022 |
 
-
+<table>
+        <tr>
+            <th>设备</th>
+            <th>设备文件名</th>
+            <th>文件描述符</th>
+            <th>类型</th>
+        </tr>
+        <tr>
+            <th>键盘</th>
+            <th>/dev/stdin</th>
+            <th>0</th>
+            <th>标准输入</th>
+        </tr>
+        <tr>
+            <th>显示器</th>
+            <th>/dev/stdout</th>
+            <th>1</th>
+            <th>标准输出</th>
+        </tr>
+        <tr>
+            <th>显示器</th>
+            <th>/dev/stderr</th>
+            <th>2</th>
+            <th>标准错误输出</th>
+        </tr>
+    </table>
 
