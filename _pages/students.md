@@ -30,7 +30,7 @@ author_profile: true
 | 中国农业大学URP计划  | 基于深度学习的人群活动空间分布 | 张津铭、韦昌晖、刘奥 | 2021-2022 |
 
 
-<table  border="0">
+<table  boder="0" cellpadding="0" cellspacing="0">
         <tr>
             <th>设备</th>
             <th>设备文件名</th>
