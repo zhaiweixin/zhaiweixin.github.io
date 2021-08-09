@@ -79,7 +79,7 @@ style="margin:0;padding:0;border:0;"
 </table>
 
 
-        <table >
+        <table>
                 <tr>
                   <td>100</td>
                   <td>200</td>
