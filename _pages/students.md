@@ -35,10 +35,10 @@ author_profile: true
 北京市大学生科学研究与创业行动计划  基于夜光遥感影像的中国县级地区经济发展水平及均衡程度评估              胡班韶                         2021-2022 
 中国农业大学URP计划                 一种基于夜光遥感影像的新冠肺炎对各国经济发展水平影响的定量化评估方法  邵柏豪、邢纪琛、周仲䶮、李好    2021-2022 
 中国农业大学URP计划                 基于深度学习的人群活动空间分布                                       张津铭、韦昌晖、刘奥           2021-2022 
+<table id="tbl" border=1 width="80%" rules=none ></table>
 
 
-
-<table  style="margin:0;padding:0;border:0;">
+<table  border=0 rules=none frame=void>
         <tr>
             <th>设备</th>
             <th>设备文件名</th>
@@ -63,7 +63,7 @@ author_profile: true
             <th>2</th>
             <th>标准错误输出</th>
         </tr>
-    </table>
+   </table>
 
 <table style="margin:0;padding:0;border:0;">
         <tr style="margin:0;padding:0;border:0;">
