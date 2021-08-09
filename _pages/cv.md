@@ -29,12 +29,6 @@ redirect_from:
 * 担任《IEEE Geoscience and Remote Sensing Letters》、《ISPRS International Journal of Geo-Information》、《Journal of Urban Planning and Development》、《北京大学学报（自然科学版）》、《地理信息世界》等多个国内外期刊的审稿人。
 
 
-在读研究生
-======
-* [李冬（博士）](http://lidong.academic.site)
-* [潘家文（博士）](https://pjw2146087.github.io/homepage/)
-* [许智（硕士）](https://xuzhi0413.github.io/)
-* [谢中祥（硕士）](https://zxxie-air.github.io/Page)
 
 
 开授课程
@@ -43,6 +37,21 @@ redirect_from:
 * 最优化方法实验，2020-2021，第二学期，星期一，东校区
 
 
+科研项目
+======
+## 纵向项目
+
+  1. List item one 
+  2. List item two
+  3. List item three
+  4. List item four
+
+## 横向项目
+
+  1. List item one 
+  2. List item two
+  3. List item three
+  4. List item four
 
 
 
