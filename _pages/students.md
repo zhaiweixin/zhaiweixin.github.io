@@ -78,7 +78,7 @@ style="margin:0;padding:0;border:0;"
         </tr>
 </table>
 
-<div style="margin:0;padding:0;border:0;">
+
         <table >
                 <tr>
                   <td>100</td>
@@ -91,4 +91,4 @@ style="margin:0;padding:0;border:0;"
                   <td>600</td>
                 </tr>
         </table>
-</div>
+
