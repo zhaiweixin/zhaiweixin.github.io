@@ -9,7 +9,7 @@ date: 2014-01-01
 location: "东校区"
 ---
 
-[下载课件](http://zhaiweixin.github.io/files/paper1.pdf)
+[下载课件](http://zhaiweixin.github.io/files/optimizationmethod/paper1.pdf)
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
