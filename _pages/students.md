@@ -77,3 +77,18 @@ style="margin:0;padding:0;border:0;"
           <td style="margin:0;padding:0;border:0;">600</td>
         </tr>
 </table>
+
+<div style="margin:0;padding:0;border:0;">
+        <table >
+                <tr>
+                  <td>100</td>
+                  <td>200</td>
+                  <td>300</td>
+                </tr>
+                <tr>
+                  <td>400</td>
+                  <td>500</td>
+                  <td>600</td>
+                </tr>
+        </table>
+</div>
