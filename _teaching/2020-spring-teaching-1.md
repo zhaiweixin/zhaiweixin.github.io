@@ -1,6 +1,6 @@
 ---
 title: "最优化方法"
-collection: 开授课程
+collection: teaching
 type: ""
 permalink: /teaching/2020-spring-teaching-1
 venue: "2020-2021, 第二学期, 星期一, 东校区"
