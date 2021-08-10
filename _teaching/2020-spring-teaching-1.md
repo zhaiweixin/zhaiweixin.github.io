@@ -1,4 +1,3 @@
-
 ---
 title: "Teaching experience 1"
 collection: teaching
@@ -8,7 +7,6 @@ venue: "University 1, Department"
 date: 2020-01-01
 location: "City, Country"
 ---
-
 [第一课 绪论](http://zhaiweixin.github.io/files/optimizationmethod/lecture_note_0[1].pdf)  
 [第二课 数学基础复习](http://zhaiweixin.github.io/files/optimizationmethod/lecture_note_1[1].pdf)  
 [第三课 凸集与凸函数](http://zhaiweixin.github.io/files/optimizationmethod/lecture_note_2[1].pdf)  
