@@ -25,6 +25,6 @@ author_profile: true
     
 &emsp;&emsp;面向快速准确地监测我国的城市扩张与收缩的需求，提出一种利用多源开放数据，通过构造和分析不同年份的“自然城市”，进行中国城市扩张与收缩的多维度监测的方法。
 
-<iframe height=500 width=500 src="http://ww4.sinaimg.cn/mw690/e75a115bgw1f3rrbzv1m8g209v0diqv7.gif">
+<iframe height=500 width=500 src="/images/图2_2_1.jpg">
 
 
