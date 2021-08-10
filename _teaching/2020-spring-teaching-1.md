@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "最优化方法"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
-venue: "University 1, Department"
+venue: "University 1哈哈哈哈, Department"
 date: 2020-01-01
 location: "City, Country"
 ---
