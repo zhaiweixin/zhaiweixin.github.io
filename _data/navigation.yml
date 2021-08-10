@@ -7,8 +7,8 @@ main:
   - title: "论文"
     url: /publications/
 
-  - title: "讲座"
-    url: /talks/    
+#  - title: "讲座"
+#    url: /talks/    
 
   - title: "开授课程"
     url: /teaching/    
@@ -29,3 +29,6 @@ main:
 
   - title: "讲座信息"
     url: /newtalk/
+
+  - title: "研究介绍"
+    url: /search/
