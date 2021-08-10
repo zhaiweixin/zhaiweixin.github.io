@@ -49,6 +49,6 @@ redirect_from:
   
   
 ### 请关注团队公众号
-![avatar](/home/picture/1.png)
+![avatar](/images/中农北斗.jpg)
 
 
