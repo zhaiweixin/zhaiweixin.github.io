@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-======
+
 * 2021.07.11 “基于北斗导航技术的全国小麦收割作业监测平台建设”智慧农业创新发展国际研讨会 智能农业装备分会，主题报告
 * 2020.12.10 “北斗网格码理论体系及其应用简介” 信电号角系列学术报告
 * 2019.07 2019 IEEE International Geoscience and Remote Sensing Symposium(IGARSS 2019)会议，日本横滨，学术报告
