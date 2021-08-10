@@ -13,8 +13,8 @@ main:
   - title: "开授课程"
     url: /teaching/    
     
-  - title: "portfolio"
-    url: /portfolio/
+#  - title: "portfolio"
+#    url: /portfolio/
         
   - title: "相关报道"
     url: /year-archive/
@@ -26,3 +26,6 @@ main:
 
   - title: "指导学生"
     url: /students/
+
+  - title: "讲座信息"
+    url: /newtalk/
