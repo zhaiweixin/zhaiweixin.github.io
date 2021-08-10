@@ -4,24 +4,19 @@ title: "讲座信息"
 author_profile: true
 
 ---
-讲座信息
 
-在读研究生：
+
 ======
-* [李冬（博士）](http://lidong.academic.site)
-* [潘家文（博士）](https://pjw2146087.github.io/homepage/)
-* [许智（硕士）](https://xuzhi0413.github.io/)
-* [谢中祥（硕士）](https://zxxie-air.github.io/Page)
+* 2021.07.11 “基于北斗导航技术的全国小麦收割作业监测平台建设”智慧农业创新发展国际研讨会 智能农业装备分会，主题报告
+* 2020.12.10 “北斗网格码理论体系及其应用简介” 信电号角系列学术报告
+* 2019.07 2019 IEEE International Geoscience and Remote Sensing Symposium(IGARSS 2019)会议，日本横滨，学术报告
+* 2018.07 2018 IEEE International Geoscience and Remote Sensing Symposium(IGARSS 2018)会议，西班牙瓦伦西亚，学术报告
+* 2017.10 ACM SIGSPATIAL Workshop，美国洛杉矶，主题报告，最佳论文奖
+* 2017.07 2017 IEEE International Geoscience and Remote Sensing Symposium(IGARSS 2017) 会议，美国德克萨斯州沃斯堡，“Data Management and Systems III”分会场的召集人、主席，主题报告
+* 2017.04 美国地理学家协会年会，美国波士顿，主题报告
+* 2016.07 第33届国际地理大会，北京，主题报告
+* 2015.07 2015 IEEE International Geoscience and Remote Sensing Symposium(IGARSS 2015)会议，意大利米兰，学术报告
+* 2014.07 2014 IEEE International Geoscience and Remote Sensing Symposium(IGARSS 2014)会议，加拿大魁北克城，学术报告
 
-指导毕业生：
-======
-* 胡丹蕾（2021年本科毕业，浙江大学读博深造）
 
-其他：
-======
 
-|  项目名称   | 题目  |  姓名   | 时间  |
-|  ----  | ----  | ----  | ----  |
-| 北京市大学生科学研究与创业行动计划  | 基于夜光遥感影像的中国县级地区经济发展水平及均衡程度评估 | 胡班韶 | 2021-2022 |
-| 中国农业大学URP计划  | 一种基于夜光遥感影像的新冠肺炎对各国经济发展水平影响的定量化评估方法 | 邵柏豪、邢纪琛、周仲䶮、李好 | 2021-2022 |
-| 中国农业大学URP计划  | 基于深度学习的人群活动空间分布 | 张津铭、韦昌晖、刘奥 | 2021-2022 |
