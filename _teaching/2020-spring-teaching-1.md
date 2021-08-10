@@ -2,9 +2,9 @@
 title: "最优化方法"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/2020-spring-teaching-1
+venue: "啦啦啦啦啦University 1, Department"
+date: 2020-01-01
 
 location: "东校区"
 ---
