@@ -4,9 +4,12 @@ title: "最优化方法"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
-venue: "University 1, Department"
+venue: "啦啦啦啦啦University 1, Department"
+
 date: 2020-01-01
-location: "City20, Country"
+
+location: "东校区"
+
 ---
 
 [第一课 绪论](http://zhaiweixin.github.io/files/optimizationmethod/lecture_note_0[1].pdf)  
