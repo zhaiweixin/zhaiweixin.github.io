@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "University 1哈哈哈哈, Department"
-date: 2020-01-01
+date: 2020-01-01-2021-01-01
 location: "City, Country"
 ---
 [第一课 绪论](http://zhaiweixin.github.io/files/optimizationmethod/lecture_note_0[1].pdf)  
