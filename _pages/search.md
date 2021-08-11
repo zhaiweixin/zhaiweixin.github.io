@@ -49,13 +49,12 @@ author_profile: true
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
-
-<td colspan="12" height="60px" border="0" cellspacing="0"><img src="/images/图2_2_2.jpg"></td>
-    <td align="right" colspan="11"><img src="/images/图2_2_3.jpg"></td>
+    <td><img src="/images/图2_2_2.jpg"></td>
+    <td><img src="/images/图2_2_3.jpg"></td>
 </tr>
 <tr>
-<td align="left"><img src="/images/图2_2_4.jpg"></td>
-<td align="right" colspan="11"><img src="/images/图2_2_5.jpg"></td>
+    <td><img src="/images/图2_2_4.jpg"></td>
+    <td><img src="/images/图2_2_5.jpg"></td>
 </tr>
 
 
