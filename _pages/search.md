@@ -28,6 +28,7 @@ author_profile: true
 ![avatar](/images/media1.avi)  
 
 ![avatar](/images/图2-1-2.jpg)  
+![avatar](/images/图2-1-3.jpg)  
     
 ## 2.基于多源数据的城市扩张/收缩分析
     
