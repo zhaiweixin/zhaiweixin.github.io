@@ -36,7 +36,7 @@ author_profile: true
 
 <!--<iframe src= "/images/图2_2_1.jpg">  </iframe>-->
 ![avatar](/images/图2_2_1.jpg)
-
+|   |  |
 |  ----  | ----  |
 | ![avatar](/images/图2_2_2.jpg)  | ![avatar](/images/图2_2_3.jpg) | 
 | ![avatar](/images/图2_2_4.jpg)  | ![avatar](/images/图2_2_5.jpg) | 
