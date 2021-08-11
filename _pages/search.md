@@ -27,7 +27,8 @@ author_profile: true
 <iframe src="/images/media1.avi" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <iframe src="/images/图2-1-2.jpg" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+![avatar](/images/media1.avi)
+![avatar](/images/图2-1-2.jpg)
     
 ## 2.基于多源数据的城市扩张/收缩分析
     
