@@ -36,7 +36,7 @@ author_profile: true
 
 <!--<iframe src= "/images/图2_2_1.jpg">  </iframe>-->
 ![avatar](/images/图2_2_1.jpg)
-|   |  |
+|  项目  |  项目 |
 |  ----  | ----  |
 | ![avatar](/images/图2_2_2.jpg)  | ![avatar](/images/图2_2_3.jpg) | 
 | ![avatar](/images/图2_2_4.jpg)  | ![avatar](/images/图2_2_5.jpg) | 
@@ -50,12 +50,12 @@ author_profile: true
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
 
-<td colspan="12" height="60px" border="0" cellspacing="0"><img src="images/图2_2_2.jpg"></td>
-    <td align="right" colspan="11"><img src="images/图2_2_3.jpg"></td>
+<td colspan="12" height="60px" border="0" cellspacing="0"><img src="/images/图2_2_2.jpg"></td>
+    <td align="right" colspan="11"><img src="/images/图2_2_3.jpg"></td>
 </tr>
 <tr>
-<td align="left"><img src="images/图2_2_4.jpg"></td>
-<td align="right" colspan="11"><images/图2_2_5.jpg"></td>
+<td align="left"><img src="/images/图2_2_4.jpg"></td>
+<td align="right" colspan="11"><img src="/images/图2_2_5.jpg"></td>
 </tr>
 
 
