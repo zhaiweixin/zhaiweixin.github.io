@@ -14,7 +14,8 @@ author_profile: true
 
 <div  style="text-align:center;">
 <img src="/images/图1-1-2.gif" />
-</div>
+</div>  
+
 ![avatar](/images/图1-1-1.gif)
 
 
