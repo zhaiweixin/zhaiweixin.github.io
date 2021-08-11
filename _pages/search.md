@@ -12,16 +12,12 @@ author_profile: true
     
 &emsp;&emsp;通过对于农机轨迹大数据的分析与挖掘，可以直观地掌握全国及各地小麦收割机的空间分布、移动速度，能够对麦收稻收等作业的整体过程有完整、客观、精确的把握，可以提供及时有效的交通疏导和应急保障等服务。作业结束后，经深度挖掘，还可以量化评价我国农机分布均衡性、农机利用率和农机作业效益，揭示我国农机社会化服务的现状、特征和问题，从政府层面宏观调控，整合行业资源，合理调度农机，为我国农机购置补贴和农机作业补贴等政策的优化提供决策参考。  
 ![avatar](/images/图1-1-1.gif)
-
 <div  style="text-align:center;">
 <img src="/images/图1-1-2.gif" />
 </div>  
 
-
-
-
-
-
+  
+  
 
 以往研究：
 ======
@@ -30,7 +26,8 @@ author_profile: true
 &emsp;&emsp;无人机空间位置标识是无人机管控的基础。无人机标识不仅要为无人机实时监控提供有力手段，更应该在保证安全的前提下，通过有效管控实现空域利用的最大化。空间位置信息是无人机标识的核心组成部分，为动态标识信息，数据量巨大，其编码、传输、交换和处理比较复杂，同时还涉及位置隐私保护，需要采用适当的空间位置框架体系标准，高效地表达。  
     
 <video controls="controls">
-  <source src="images/media1.mp4" type="video/mp4" />
+  
+    <source src="/images/media1.mp4" type="video/mp4" />
   
 </video>
 
@@ -52,14 +49,16 @@ author_profile: true
 
 
 
-<table>
-<tr>
-    <td><img src="/images/图2_2_2.jpg"></td>
-    <td><img src="/images/图2_2_3.jpg"></td>
+
+
+<table style="margin:0;padding:0;border:0;">
+<tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_2.jpg"></td>
+    <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_3.jpg"></td>
 </tr>
-<tr>
-    <td><img src="/images/图2_2_4.jpg"></td>
-    <td><img src="/images/图2_2_5.jpg"></td>
+<tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_4.jpg"></td>
+    <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_5.jpg"></td>
 </tr>
 
 
