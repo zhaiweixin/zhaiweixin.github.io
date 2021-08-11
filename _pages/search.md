@@ -15,10 +15,9 @@ author_profile: true
 <div  style="text-align:center;">
 <img src="/images/图1-1-2.gif" />
 </div>  
-
   
-  
-
+    
+    
 以往研究：
 ======
 ## 1.全球剖分理论及在无人机领域的应用
