@@ -45,7 +45,7 @@ author_profile: true
 
 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table>
 <tr>
     <td><img src="/images/图2_2_2.jpg"></td>
     <td><img src="/images/图2_2_3.jpg"></td>
