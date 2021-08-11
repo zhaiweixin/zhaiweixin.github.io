@@ -14,7 +14,7 @@ author_profile: true
 
 ![avatar](/images/图1-1-1.gif)
 
-
+![avatar](/images/图1-1-2.gif)
 
 以往研究：
 ======
