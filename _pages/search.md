@@ -30,6 +30,7 @@ author_profile: true
   
 </video>
 
+<img src="https://s31.aconvert.com/convert/p3r68-cdx67/uviov-fozay.gif" />
 
 ![avatar](/images/图2-1-2.jpg)  
 ![avatar](/images/图2-1-3.jpg)  
