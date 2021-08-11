@@ -1,7 +1,7 @@
 ---
 title: ' 大数据191班班主任考核结果为“优秀” '
 date: 2021-07-16
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2021-07-16-future-post
 tags:
   - cool posts
   - category1
