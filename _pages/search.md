@@ -34,7 +34,7 @@ author_profile: true
   
 </video>
 
-![avatar](/images/media1.avi)  
+
 
 ![avatar](/images/图2-1-2.jpg)  
 ![avatar](/images/图2-1-3.jpg)  
