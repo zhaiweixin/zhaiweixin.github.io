@@ -11,7 +11,7 @@ author_profile: true
 ## 1.农机轨迹大数据分析与挖掘
     
 &emsp;&emsp;通过对于农机轨迹大数据的分析与挖掘，可以直观地掌握全国及各地小麦收割机的空间分布、移动速度，能够对麦收稻收等作业的整体过程有完整、客观、精确的把握，可以提供及时有效的交通疏导和应急保障等服务。作业结束后，经深度挖掘，还可以量化评价我国农机分布均衡性、农机利用率和农机作业效益，揭示我国农机社会化服务的现状、特征和问题，从政府层面宏观调控，整合行业资源，合理调度农机，为我国农机购置补贴和农机作业补贴等政策的优化提供决策参考。
-<img align="center" src="/images图1-1-2.gif">
+<img align="middle" src="/images图1-1-2.gif" />
 ![avatar](/images/图1-1-2.gif)
 ![avatar](/images/图1-1-1.gif)
 
@@ -34,12 +34,9 @@ author_profile: true
     
 &emsp;&emsp;面向快速准确地监测我国的城市扩张与收缩的需求，提出一种利用多源开放数据，通过构造和分析不同年份的“自然城市”，进行中国城市扩张与收缩的多维度监测的方法。
 
+
 <!--<iframe src= "/images/图2_2_1.jpg">  </iframe>-->
 ![avatar](/images/图2_2_1.jpg)
-|  项目  |  项目 |
-|  ----  | ----  |
-| ![avatar](/images/图2_2_2.jpg)  | ![avatar](/images/图2_2_3.jpg) | 
-| ![avatar](/images/图2_2_4.jpg)  | ![avatar](/images/图2_2_5.jpg) | 
 
 
 
