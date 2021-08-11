@@ -24,9 +24,6 @@ author_profile: true
    
 &emsp;&emsp;无人机空间位置标识是无人机管控的基础。无人机标识不仅要为无人机实时监控提供有力手段，更应该在保证安全的前提下，通过有效管控实现空域利用的最大化。空间位置信息是无人机标识的核心组成部分，为动态标识信息，数据量巨大，其编码、传输、交换和处理比较复杂，同时还涉及位置隐私保护，需要采用适当的空间位置框架体系标准，高效地表达。
     
-<iframe src="/images/media1.avi" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
-
-<iframe src="/images/图2-1-2.jpg" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
 
 ![avatar](/images/media1.avi)  
 
@@ -36,6 +33,6 @@ author_profile: true
     
 &emsp;&emsp;面向快速准确地监测我国的城市扩张与收缩的需求，提出一种利用多源开放数据，通过构造和分析不同年份的“自然城市”，进行中国城市扩张与收缩的多维度监测的方法。
 
-<iframe height=500 width=500 src= "/images/图2_2_1.jpg">  </iframe>
+<iframe src= "/images/图2_2_1.jpg">  </iframe>
 
 
