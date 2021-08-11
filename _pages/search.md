@@ -14,7 +14,7 @@ author_profile: true
 
 ![avatar](/images/图1-1-1.gif)
 
-<iframe height=500 width=500 src="/images/图1-1-1.gif"/>
+
 
 以往研究：
 ======
@@ -27,6 +27,6 @@ author_profile: true
     
 &emsp;&emsp;面向快速准确地监测我国的城市扩张与收缩的需求，提出一种利用多源开放数据，通过构造和分析不同年份的“自然城市”，进行中国城市扩张与收缩的多维度监测的方法。
 
-<iframe height=500 width=500 src= "http://zhaiweixin.github.io/images/图2_2_1.jpg" />
+<iframe height=500 width=500 src= "/images/图2_2_1.jpg" />
 
 
