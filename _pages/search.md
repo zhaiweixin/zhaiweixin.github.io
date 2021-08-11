@@ -45,14 +45,14 @@ author_profile: true
 
 
 
-<table style="margin:0;padding:0;border:0;">
-<tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_2.jpg"></td>
-    <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_3.jpg"></td>
+<table>
+<tr>
+    <td><img src="/images/图2_2_2.jpg"></td>
+    <td><img src="/images/图2_2_3.jpg"></td>
 </tr>
-<tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_4.jpg"></td>
-    <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_5.jpg"></td>
+<tr>
+    <td><img src="/images/图2_2_4.jpg"></td>
+    <td><img src="/images/图2_2_5.jpg"></td>
 </tr>
 
 
