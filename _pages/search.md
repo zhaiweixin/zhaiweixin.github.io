@@ -23,13 +23,15 @@ author_profile: true
 ## 1.全球剖分理论及在无人机领域的应用
    
 &emsp;&emsp;无人机空间位置标识是无人机管控的基础。无人机标识不仅要为无人机实时监控提供有力手段，更应该在保证安全的前提下，通过有效管控实现空域利用的最大化。空间位置信息是无人机标识的核心组成部分，为动态标识信息，数据量巨大，其编码、传输、交换和处理比较复杂，同时还涉及位置隐私保护，需要采用适当的空间位置框架体系标准，高效地表达。  
+
 <!--    
-<video controls="controls">
-  
-    <source src="/images/media1.mp4" type="video/mp4" />
-  
-</video>
+    <video controls="controls">
+
+        <source src="/images/media1.mp4" type="video/mp4" />
+
+    </video>
 -->
+
 <img src="/images/图2-1-1.gif" />
 
 ![avatar](/images/图2-1-2.jpg)  
