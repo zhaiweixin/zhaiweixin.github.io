@@ -25,7 +25,7 @@ redirect_from:
 
 社会职务
 ======
-* 2020-   中国农业大学，副教授
+
 * 担任《IEEE Geoscience and Remote Sensing Letters》、《ISPRS International Journal of Geo-Information》、《Journal of Urban Planning and Development》、《北京大学学报（自然科学版）》、《地理信息世界》等多个国内外期刊的审稿人。
 
 
