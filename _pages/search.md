@@ -103,8 +103,8 @@ author_profile: true
 </tr>
     
 <tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;">京津冀地区的物理维度变化</td>
-    <td style="margin:0;padding:0;border:0;">京津冀地区的形态维度变化</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">京津冀地区的物理维度变化</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">京津冀地区的形态维度变化</td>
 </tr>
     
 <tr style="margin:0;padding:0;border:0;">
@@ -113,9 +113,9 @@ author_profile: true
 </tr>
 
 <tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;">全国自然城市分布（2009-2014）</td>
-    <td style="margin:0;padding:0;border:0;">京津冀地区的功能维度变化</td>
-    <td style="margin:0;padding:0;border:0;">京津冀地区的社会维度变化</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">全国自然城市分布（2009-2014）</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">京津冀地区的功能维度变化</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">京津冀地区的社会维度变化</td>
 </tr>
 
 </table>
