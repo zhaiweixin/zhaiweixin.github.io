@@ -49,7 +49,10 @@ author_profile: true
 
 ![avatar](/images/图2-1-3.jpg)  
 
-<center>二维全球剖分示例</center>  
+<center>二维全球剖分示例</center>    
+<div  style="text-align:center;">
+    二维全球剖分示例
+</div>  
 
 <img src="/images/图2-1-1.gif" />
 
