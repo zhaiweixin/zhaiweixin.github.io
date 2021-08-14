@@ -97,7 +97,7 @@ author_profile: true
 <table style="margin:0;padding:0;border:0;">
     
 <tr style="margin:0;padding:0;border:0;">
-    <td margin="0" padding="0" border="0" rowspan="3"><img src="/images/图2_2_1.jpg"></td>
+    <td style="margin:0;padding:0;border:0;" rowspan="3"><img src="/images/图2_2_1.jpg"></td>
     <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_2.jpg"></td>
     <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_3.jpg"></td>
 </tr>
