@@ -18,12 +18,12 @@ author_profile: true
 </div>  
   
     
-<img src="/images/麦收-每日动图.gif">
+
 
 <table style="margin:0;padding:0;border:0;">
 <tr style="margin:0;padding:0;border:0;">
     <td style="margin:0;padding:0;border:0;"><img src="/images/麦收-每日动图.gif"></td>
-    <td style="margin:0;padding:0;border:0;width:640px;"><img src="/images/图1-1-2.gif"></td>
+    <td style="margin:0;padding:0;border:0;"><img src="/images/图1-1-2.gif"></td>
 </tr>
 <tr style="margin:0;padding:0;border:0;">
     <td style="margin:0;padding:0;border:0;">2021年全国春小麦收割热点图</td>
