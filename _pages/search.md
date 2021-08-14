@@ -52,7 +52,7 @@ author_profile: true
 <center>二维全球剖分示例</center>  
 
 
-<div  style="text-align:center;font-size:10px">
+<div  style="text-align:center;font-size:12px">
 二维全球剖分示例
 </div>  
 
