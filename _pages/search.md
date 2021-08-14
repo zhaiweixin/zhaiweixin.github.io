@@ -18,6 +18,7 @@ author_profile: true
 </div>  
   
     
+<img src="/images/麦收-每日动图.gif">
 
 <table style="margin:0;padding:0;border:0;">
 <tr style="margin:0;padding:0;border:0;">
