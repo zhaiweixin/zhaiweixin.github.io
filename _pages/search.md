@@ -31,7 +31,6 @@ author_profile: true
     <td style="margin:0;padding:0;border:0;text-align:center;">农田内部轨迹动态展示</td>
 </tr>
 
-
 </table>
 
 以往研究：
@@ -56,6 +55,17 @@ author_profile: true
 
 ![avatar](/images/图2-1-2.jpg)  
 
+ 
+<table style="margin:0;padding:0;border:0;">
+    <tr style="margin:0;padding:0;border:0;">
+        <td style="margin:0;padding:0;border:0;"><img src="/images/图2-1-1.gif"></td>
+        <td style="margin:0;padding:0;border:0;"><img src="/images/图2-1-2.jpg"></td>
+    </tr>
+    <tr style="margin:0;padding:0;border:0;">
+        <td style="margin:0;padding:0;border:0;text-align:center;">三维全球剖分示例</td>
+        <td style="margin:0;padding:0;border:0;text-align:center;">网格化无人机管控示例</td>
+    </tr>
+</table>
  
     
 ## 2.基于多源数据的城市扩张/收缩分析
