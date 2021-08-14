@@ -76,7 +76,7 @@ author_profile: true
         <td style="margin:0;padding:0;border:0;text-align:center;">网格化无人机管控示例</td>
     </tr>
 </table>
- 改3 1400
+ 改3 1385
     
 ## 2.基于多源数据的城市扩张/收缩分析
     
@@ -95,14 +95,27 @@ author_profile: true
 
 
 <table style="margin:0;padding:0;border:0;">
+    
 <tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding:0;border:0;rowspan:3"><img src="/images/图2_2_1.jpg"></td>
     <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_2.jpg"></td>
     <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_3.jpg"></td>
 </tr>
+    
+<tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding:0;border:0;">京津冀地区的物理维度变化</td>
+    <td style="margin:0;padding:0;border:0;">京津冀地区的形态维度变化</td>
+</tr>
+    
 <tr style="margin:0;padding:0;border:0;">
     <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_4.jpg"></td>
     <td style="margin:0;padding:0;border:0;"><img src="/images/图2_2_5.jpg"></td>
 </tr>
 
+<tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding:0;border:0;">全国自然城市分布（2009-2014）</td>
+    <td style="margin:0;padding:0;border:0;">京津冀地区的功能维度变化</td>
+    <td style="margin:0;padding:0;border:0;">京津冀地区的社会维度变化</td>
+</tr>
 
 </table>
