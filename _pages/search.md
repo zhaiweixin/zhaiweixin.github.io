@@ -27,8 +27,8 @@ author_profile: true
     <td style="margin:0;padding:0;border:0;"><img src="/images/图1-1-2.gif"></td>
 </tr>
 <tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;">2021年全国春小麦收割热点图</td>
-    <td style="margin:0;padding:0;border:0;">农田内部轨迹动态展示</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">2021年全国春小麦收割热点图</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">农田内部轨迹动态展示</td>
 </tr>
 
 
