@@ -48,8 +48,10 @@ author_profile: true
     </video>
 -->
 
-![avatar](/images/图2-1-3.jpg) 
-二维全球剖分示例
+![avatar](/images/图2-1-3.jpg)  
+
+<center>二维全球剖分示例</center>  
+
 <img src="/images/图2-1-1.gif" />
 
 ![avatar](/images/图2-1-2.jpg)  
