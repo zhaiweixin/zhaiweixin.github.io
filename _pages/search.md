@@ -88,7 +88,7 @@ author_profile: true
 
 
 
-<img align="middle" src="/images/图2_2_1.jpg" />
+<!--<img align="middle" src="/images/图2_2_1.jpg" />-->
 
 
 
