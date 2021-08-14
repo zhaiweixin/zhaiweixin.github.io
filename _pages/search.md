@@ -23,7 +23,7 @@ author_profile: true
 
 <table style="margin:0;padding:0;border:0;">
 <tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;"><img src="/images/麦收-每日动图.gif"></td>
+    <td style="margin:0;padding:0;border:0;"><img src="/images/麦收-每日动图.gif"></td><!--大小650像素-->
     <td style="margin:0;padding:0;border:0;"><img src="/images/图1-1-2.gif"></td>
 </tr>
 <tr style="margin:0;padding:0;border:0;">
@@ -49,10 +49,10 @@ author_profile: true
 
 ![avatar](/images/图2-1-3.jpg)  
 
-<center>二维全球剖分示例</center>  
+<!--<center>二维全球剖分示例</center>-->
 
 
-<div  style="text-align:center;font-size:12px">
+<div  style="text-align:center;font-size:14px">
 二维全球剖分示例
 </div>  
 
@@ -60,11 +60,11 @@ author_profile: true
 
 
 
+<!--
+    <img src="/images/图2-1-1.gif" />
 
-<img src="/images/图2-1-1.gif" />
-
-![avatar](/images/图2-1-2.jpg)  
-
+    ![avatar](/images/图2-1-2.jpg)  
+-->
  
 <table style="margin:0;padding:0;border:0;">
     <tr style="margin:0;padding:0;border:0;">
@@ -76,14 +76,14 @@ author_profile: true
         <td style="margin:0;padding:0;border:0;text-align:center;">网格化无人机管控示例</td>
     </tr>
 </table>
- 改3 1385
+ <!-- 大小1385>
     
 ## 2.基于多源数据的城市扩张/收缩分析
     
 &emsp;&emsp;面向快速准确地监测我国的城市扩张与收缩的需求，提出一种利用多源开放数据，通过构造和分析不同年份的“自然城市”，进行中国城市扩张与收缩的多维度监测的方法。
 
 
-<!--<iframe src= "/images/图2_2_1.jpg">  </iframe>-->
+
 
 
 
