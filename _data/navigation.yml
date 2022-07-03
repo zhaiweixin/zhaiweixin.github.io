@@ -21,8 +21,8 @@ main:
     url: /search/
 
  
-  - title: "相关报道"
-    url: /year-archive/
+#  - title: "相关报道"
+#    url: /year-archive/
     
     
 
