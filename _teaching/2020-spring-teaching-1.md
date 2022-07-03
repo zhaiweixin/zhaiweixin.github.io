@@ -1,5 +1,5 @@
 ---
-title: "最优化方法"
+title: "最优化方法(必修)"
 collection: teaching
 type: "必修课"
 permalink: /teaching/2020-spring-teaching-1
