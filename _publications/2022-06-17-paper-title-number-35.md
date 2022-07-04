@@ -1,7 +1,7 @@
 ---
 title: "Satellite monitoring of shrinking cities on the globe and containment solutions"
 collection: publications
-permalink: /publication/2022-06-17-paper-title-number-32
+permalink: /publication/2022-06-17-paper-title-number-35
 excerpt: ''
 date: 2022-06-17
 venue: 'iScience'
