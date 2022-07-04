@@ -1,7 +1,7 @@
 ---
 title: "基于北斗的农机作业大数据系统构建"
 collection: publications
-permalink: /publication/2022-05-18-paper-title-number-33
+permalink: /publication/2022-05-18-paper-title-number-34
 excerpt: ''
 date: 2022-05-18
 venue: '农业工程学报'
