@@ -1,7 +1,7 @@
 ---
 title: "A low-altitude public air route network for UAV management constructed by global subdivision grids"
 collection: publications
-permalink: /publication/2021-04-14-paper-title-number-31
+permalink: /publication/2021-04-14-paper-title-number-32
 excerpt: ''
 date: 2021-04-14
 venue: 'PLOS ONE'
