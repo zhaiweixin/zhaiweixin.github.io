@@ -1,7 +1,7 @@
 ---
 title: "Patterns of Nighttime Crowd Flows in Tourism Cities Based on Taxi Data—Take Haikou Prefecture as an Example"
 collection: publications
-permalink: /publication/2022-03-15-paper-title-number-34
+permalink: /publication/2022-03-15-paper-title-number-33
 excerpt: ''
 date: 2022-03-15
 venue: 'Remote Sensing'
