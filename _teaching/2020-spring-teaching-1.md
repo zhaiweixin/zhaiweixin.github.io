@@ -3,7 +3,7 @@ title: "最优化方法（必修）"
 collection: teaching
 type: "必修课"
 permalink: /teaching/2020-spring-teaching-1
-venue: ""
+venue: "5545445454"
 date: 2020-01-01
 location: "东校区"
 ---
