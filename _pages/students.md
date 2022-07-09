@@ -14,7 +14,7 @@ author_profile: true
 * [谢中祥（硕士）](https://zxxie-air.github.io/Page)
 * [韩瑞婧（硕士）](https://dadaban.github.io/)
 * [郭舟（硕士）](https://kakushuu.github.io/)
-* [梁永浩（硕士）]()
+* [梁永浩（硕士）](https://ldsly.github.io/)
 
 指导毕业生：
 ======
