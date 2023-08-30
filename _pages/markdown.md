@@ -39,9 +39,9 @@ redirect_from:
   
 
 *所有进行工作汇报的同学，请注意参考此模板的要求:
-[学术类PPT制作及演示建议](http://zhaiweixin.github.io/files/Ppt.pptx)  
+[学术类PPT制作及演示建议](http://zhaiweixin.github.io/files/Ppt.pdf)  
 *用word进行论文写作时请注意如下文档所提事项:
-[word论文写作需注意事项](http://zhaiweixin.github.io/files/Word.docx) 
+[word论文写作需注意事项](http://zhaiweixin.github.io/files/Word.pdf) 
 
   
 申请方式：
