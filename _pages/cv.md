@@ -54,5 +54,5 @@ redirect_from:
   
   
 ### 欢迎关注团队微信公众号“中农北斗”
-![avatar](/images/中农北斗.jpg)
+![avatar](/images/中农北斗.png)
 
