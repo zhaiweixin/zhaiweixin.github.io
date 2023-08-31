@@ -1,9 +1,9 @@
 ---
 title: "拖拉机自动导航变曲度路径跟踪控制方法研究"
 collection: publications
-permalink: /publication/2022-11-paper-title-number-36
+permalink: /publication/2022-11-01-paper-title-number-36
 excerpt: ''
-date: 2022-11
+date: 2022-11-01
 venue: '农业工程学报'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
