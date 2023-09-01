@@ -7,7 +7,7 @@ date: 2023-07-03
 venue: 'Computers and Electronics in Agriculture'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: 'Dong Li, Xin Liu, Kun Zhou, Ruizhi Sun, Chutian Wang, <b>Weixin Zhai</b>, Caicong Wu. Discovering spatiotemporal characteristics of the trans-regional harvesting operation using big data of GNSS trajectories in China. <i>Computers and Electronics in Agriculture</i>, Volume 211,2023,108003.'
+citation: 'Li Dong, Liu Xin, Zhou Kun, Sun Ruizhi, Wang Chutian, <b>Zhai Weixin</b>, Wu Caicong. Discovering spatiotemporal characteristics of the trans-regional harvesting operation using big data of GNSS trajectories in China. <i>Computers and Electronics in Agriculture</i>, Volume 211,2023,108003.'
 ---
 
 

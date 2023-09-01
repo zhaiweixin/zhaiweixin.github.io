@@ -7,7 +7,7 @@ date: 2023-01-04
 venue: 'Computers and Electronics in Agriculture'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: 'Caicong Wu, Dong Li, Xiaoqiang Zhang, Jiawen Pan, Lei Quan, Lili Yang, Weizhong Yang, Qin Ma, Chunhua Su, <b>Weixin Zhai</b>.China’s agricultural machinery operation big data system.<i>Computers and Electronics in Agriculture</i>,Volume 205,2023,107594.'
+citation: 'Wu Caicong, Li Dong, Zhang Xiaoqiang, Pan Jiawen, Quan Lei, Yang Lili, Yang Weizhong, Ma Qin, Su Chunhua, <b>Zhai Weixin</b>.China’s agricultural machinery operation big data system.<i>Computers and Electronics in Agriculture</i>,Volume 205,2023,107594.'
 ---
 
 

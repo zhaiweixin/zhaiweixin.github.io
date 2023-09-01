@@ -7,7 +7,7 @@ date: 2023-05-1
 venue: 'Int J Agric & Biol Eng'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: 'Yuzhen Xiao, Guozhao Mo, Xiya Xiong, Jiawen Pan, Bingbing Hu, Caicong Wu, <b>Weixin Zhai</b>. DR-XGBoost: An XGBoost model for field-road segmentation based on dual feature extraction and recursive feature elimination. <i>Int J Agric & Biol Eng</i>, 2023; 16(3): 169–179.'
+citation: 'Xiao Yuzhen, Mo Guozhao, Xiong Xiya, Pan Jiawen, Hu Bingbing, Wu Caicong, <b>Zhai Weixin</b>. DR-XGBoost: An XGBoost model for field-road segmentation based on dual feature extraction and recursive feature elimination. <i>Int J Agric & Biol Eng</i>, 2023; 16(3): 169–179.'
 ---
 
 

@@ -7,7 +7,7 @@ date: 2022-07-01
 venue: 'Int J Agric & Biol Eng'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: 'Lili Yang, Weize Tian, <b>Weixin Zhai</b>, Xinxin Wang, Zhibo Chen, Long Wen, Yuanyuan Xu, Caicong Wu.Behavior recognition and fuel consumption prediction of tractor sowing operations using smartphone.<i>Int J Agric & Biol Eng</i>, 2022; 15(4): 154–162.'
+citation: 'Yang Lili, Tian Weize, <b>Zhai Weixin</b>, Wang Xinxin, Chen Zhibo, Wen Long, Xu Yuanyuan, Wu Caicong.Behavior recognition and fuel consumption prediction of tractor sowing operations using smartphone.<i>Int J Agric & Biol Eng</i>, 2022; 15(4): 154–162.'
 
 ---
 
