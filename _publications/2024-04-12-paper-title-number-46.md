@@ -7,7 +7,7 @@ date: 2024-04-12
 venue: 'Computers and Electronics in Agriculture'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: '<b>Zhai Weixin</b>, Kuang Xinran, Cheng Xiaoyu, Pan Jiawen, Wu Caicong. Reconstruction of missing points in agricultural machinery trajectory based on bidirectional adjacent information. <i>Computers and Electronics in Agriculture<i>, Volume 220, 2024, 108920.'
+citation: '<b>Zhai Weixin</b>, Kuang Xinran, Cheng Xiaoyu, Pan Jiawen, Wu Caicong. Reconstruction of missing points in agricultural machinery trajectory based on bidirectional adjacent information. <i>Computers and Electronics in Agriculture</i>, Volume 220, 2024, 108920.'
 ---
 
 
