@@ -12,14 +12,6 @@ author_profile: true
     
 &emsp;&emsp;通过对于农机轨迹大数据的分析与挖掘，可以直观地掌握全国及各地小麦收割机的空间分布、移动速度，能够对麦收稻收等作业的整体过程有完整、客观、精确的把握，可以提供及时有效的交通疏导和应急保障等服务。作业结束后，经深度挖掘，还可以量化评价我国农机分布均衡性、农机利用率和农机作业效益，揭示我国农机社会化服务的现状、特征和问题，从政府层面宏观调控，整合行业资源，合理调度农机，为我国农机购置补贴和农机作业补贴等政策的优化提供决策参考。  
 
-<!--
-![avatar](/images/图1-1-1.gif)
-<div  style="text-align:center;">
-<img src="/images/图1-1-2.gif" />
-</div>  
--->  
-    
-
 
 <table style="margin:0;padding:0;border:0;">
 <tr style="margin:0;padding:0;border:0;">
