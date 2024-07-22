@@ -7,7 +7,7 @@ date: 2024-02-10
 venue: 'Computational Urban Science'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: 'Hu Banshao, <b>Zhai Weixin</b>, Li Dong, Tang Junqing. Application note: evaluation of the Gini coefcient at the county level in mainland China based on Luojia 1-01 nighttime light images. <i>Computational Urban Science<i>, 2024, 4(1): 1.'
+citation: 'Hu Banshao, <b>Zhai Weixin</b>, Li Dong, Tang Junqing. Application note: evaluation of the Gini coefcient at the county level in mainland China based on Luojia 1-01 nighttime light images. <i>Computational Urban Science</i>, 2024, 4(1): 1.'
 ---
 
 
