@@ -15,7 +15,7 @@ author_profile: true
 * [付尊元（硕士）](https://fuzunyuan.github.io/)
 * [王翠环（硕士）](https://hr1313dx.github.io/)
 * [雷忠禹（硕士）]
-* [于海涛（硕士）](https://moonrulertech.github.io/PersonalPage-Hadley/))
+* [于海涛（硕士）](https://moonrulertech.github.io/PersonalPage-Hadley/)
 * [李智超（硕士）]
 
 
