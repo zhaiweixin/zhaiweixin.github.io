@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d4cf2bd1-5f75-4da2-9970-d24a17fcb305)![image](https://github.com/user-attachments/assets/3d650cb8-9270-4638-a877-c7610dd724fe)---
+---
 permalink: /students/
 title: "指导学生"
 author_profile: true
