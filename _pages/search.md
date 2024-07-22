@@ -13,43 +13,25 @@ author_profile: true
 &emsp;&emsp;通过对于农机轨迹大数据的分析与挖掘，可以直观地掌握全国及各地小麦收割机的空间分布、移动速度，能够对麦收稻收等作业的整体过程有完整、客观、精确的把握，可以提供及时有效的交通疏导和应急保障等服务。作业结束后，经深度挖掘，还可以量化评价我国农机分布均衡性、农机利用率和农机作业效益，揭示我国农机社会化服务的现状、特征和问题，从政府层面宏观调控，整合行业资源，合理调度农机，为我国农机购置补贴和农机作业补贴等政策的优化提供决策参考。  
 
 
-<style>  
-/* 为包含图片的td设置样式 */  
-table td {  
-    width: 50%; /* 将td的宽度设置为表格宽度的一半 */  
-    text-align: center; /* 使图片和文字居中 */  
-    vertical-align: top; /* 如果你希望图片和文字垂直对齐的话 */  
-}  
-  
-/* 为图片设置样式，保持宽高比并填充td的宽度 */  
-table td img {  
-    max-width: 100%; /* 允许图片最大宽度为td的宽度 */  
-    height: auto; /* 保持图片的原始宽高比 */  
-    display: block; /* 去除图片下方的默认间隙 */  
-    margin: 0 auto; /* 水平和垂直居中图片（在这个上下文中主要是水平居中） */  
-}  
-</style>  
-  
-<table style="width: 100%; border-collapse: collapse;"> <!-- 添加border-collapse以消除表格边框之间的间距 -->  
-<tr>  
-    <td><img src="/images/2023热力图.gif" alt="2023年全国春小麦收割热点图"></td>  
-    <td><img src="/images/图1-1-2.gif" alt="农田内部轨迹动态展示"></td>  
-</tr>  
-<tr>  
-    <td style="text-align:center;">2023年全国春小麦收割热点图</td>  
-    <td style="text-align:center;">农田内部轨迹动态展示</td>  
-</tr>  
+<table style="margin:0;padding:0;border:0;">
+<tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding:0;border:0;"><img src="/images/2023热力图.gif"></td><!--大小650像素-->
+    <td style="margin:0;padding:0;border:0;"><img src="/images/图1-1-2.gif"></td>
+</tr>
+<tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding:0;border:0;text-align:center;">2023年全国春小麦收割热点图</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">农田内部轨迹动态展示</td>
+</tr>
+
 </table>
 
 ## 2.农机无人驾驶
 
 &emsp;&emsp;为了实现无人农场全场景全过程的无人化作业，针对无人农机机型众多、任务复杂、适配困难、作业精度不高、决策缺乏智能等问题，我们着眼于突破“机库-机耕道-农田”全场景下农机作业的关键技术。通过开发无人农机全场景智能可信导航控制装备，实现无人农机从机库到机耕道再到农田的全程无人行驶和精准作业，包括耕种和收获等环节。同时，农场三维路径规划技术将确保农机在复杂农田环境中高效、安全地行驶。此外，农机具精准控制技术有助于确保农机在作业过程中能够准确地执行指令，提高作业的精度和效率。最后，全流程智能决策技术的应用将使无人农机能够智能地进行决策，从而进一步提升作业效果。  
  
-<video controls="controls" width="auto" height="400">  
+<video controls="controls" width="auto" height="410">  
     <source src="/images/无人驾驶视频.mp4" type="video/mp4" />  
 </video>
-
-<!--<center>二维全球剖分示例</center>-->
 
 <div  style="text-align:center;font-size:14px">
 全场景下无人农机作业示例
