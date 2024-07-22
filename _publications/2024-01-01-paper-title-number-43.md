@@ -7,7 +7,7 @@ date: 2024-01-01
 venue: 'Computers and Electronics in Agriculture'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: '<b>Zhai Weixin</b>, Mo Guozhao, Xiao Yuzhen, Xiong Xiya, Wu Caicong, Zhang Xiaoqiang, Xu Zhi, Pan Jiawen. GAN-BiLSTM network for field-road classification on imbalanced GNSS recordings. <i>Computers and Electronics in Agriculture<i>, Volume 216,2024,108457.'
+citation: '<b>Zhai Weixin</b>, Mo Guozhao, Xiao Yuzhen, Xiong Xiya, Wu Caicong, Zhang Xiaoqiang, Xu Zhi, Pan Jiawen. GAN-BiLSTM network for field-road classification on imbalanced GNSS recordings. <i>Computers and Electronics in Agriculture</i>, Volume 216,2024,108457.'
 ---
 
 
