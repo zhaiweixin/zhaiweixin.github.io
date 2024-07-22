@@ -1,9 +1,9 @@
 ---
 title: "Application note: evaluation of the Gini coefcient at the county level in mainland China based on Luojia 1-01 nighttime light images"
 collection: publications
-permalink: /publication/2024-02-paper-title-number-44
+permalink: /publication/2024-02-10-paper-title-number-44
 excerpt: ''
-date: 2024-02
+date: 2024-02-10
 venue: 'Computational Urban Science'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
