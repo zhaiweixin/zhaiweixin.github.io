@@ -1,9 +1,9 @@
 ---
 title: "A Bagging-SVM field-road trajectory classification model based on feature enhancement"
 collection: publications
-permalink: /publication/2024-03-paper-title-number-45
+permalink: /publication/2024-03-11-paper-title-number-45
 excerpt: ''
-date: 2024-03
+date: 2024-03-11
 venue: 'Computers and Electronics in Agriculture'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
