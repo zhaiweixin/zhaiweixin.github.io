@@ -15,8 +15,8 @@ author_profile: true
 
 <table style="margin:0;padding:0;border:0;">
 <tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;width:60%"><img src="/images/2023热力图.gif"></td><!--大小650像素-->
-    <td style="margin:0;padding:0;border:0;;width:40%"><img src="/images/图1-1-2.gif"></td>
+    <td style="margin:0;padding:5px;border:0;width:55%"><img src="/images/2023热力图.gif"></td><!--大小650像素-->
+    <td style="margin:0;padding:5px;border:0;;width:45%"><img src="/images/图1-1-2.gif"></td>
 </tr>
 <tr style="margin:0;padding:0;border:0;">
     <td style="margin:0;padding:0;border:0;text-align:center;">2023年全国春小麦收割热点图</td>
