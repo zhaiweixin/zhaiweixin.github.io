@@ -15,15 +15,30 @@ author_profile: true
 
 <table style="margin:0;padding:0;border:0;">
 <tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;"><img src="/images/麦收-每日动图.gif"></td><!--大小650像素-->
+    <td style="margin:0;padding:0;border:0;"><img src="/images/2023热力图.gif"></td><!--大小650像素-->
     <td style="margin:0;padding:0;border:0;"><img src="/images/图1-1-2.gif"></td>
 </tr>
 <tr style="margin:0;padding:0;border:0;">
-    <td style="margin:0;padding:0;border:0;text-align:center;">2021年全国春小麦收割热点图</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">2023年全国春小麦收割热点图</td>
     <td style="margin:0;padding:0;border:0;text-align:center;">农田内部轨迹动态展示</td>
 </tr>
 
 </table>
+
+## 2.农机无人驾驶
+
+&emsp;&emsp;为了实现无人农场全场景全过程的无人化作业，针对无人农机机型众多、任务复杂、适配困难、作业精度不高、决策缺乏智能等问题，我们着眼于突破“机库-机耕道-农田”全场景下农机作业的关键技术。通过开发无人农机全场景智能可信导航控制装备，实现无人农机从机库到机耕道再到农田的全程无人行驶和精准作业，包括耕种和收获等环节。同时，农场三维路径规划技术将确保农机在复杂农田环境中高效、安全地行驶。此外，农机具精准控制技术有助于确保农机在作业过程中能够准确地执行指令，提高作业的精度和效率。最后，全流程智能决策技术的应用将使无人农机能够智能地进行决策，从而进一步提升作业效果。  
+ 
+<video controls="controls">
+    <source src="/images/无人驾驶视频.mp4" type="video/mp4" />
+</video>
+
+<!--<center>二维全球剖分示例</center>-->
+
+<div  style="text-align:center;font-size:14px">
+全场景下无人农机作业示例
+</div>  
+
 
 以往研究：
 ======
@@ -31,32 +46,12 @@ author_profile: true
    
 &emsp;&emsp;无人机空间位置标识是无人机管控的基础。无人机标识不仅要为无人机实时监控提供有力手段，更应该在保证安全的前提下，通过有效管控实现空域利用的最大化。空间位置信息是无人机标识的核心组成部分，为动态标识信息，数据量巨大，其编码、传输、交换和处理比较复杂，同时还涉及位置隐私保护，需要采用适当的空间位置框架体系标准，高效地表达。  
 
-<!--    
-    <video controls="controls">
-
-        <source src="/images/media1.mp4" type="video/mp4" />
-
-    </video>
--->
 
 ![avatar](/images/图2-1-3.jpg)  
-
-<!--<center>二维全球剖分示例</center>-->
-
 
 <div  style="text-align:center;font-size:14px">
 二维全球剖分示例
 </div>  
-
-
-
-
-
-<!--
-    <img src="/images/图2-1-1.gif" />
-
-    ![avatar](/images/图2-1-2.jpg)  
--->
  
 <table style="margin:0;padding:0;border:0;">
     <tr style="margin:0;padding:0;border:0;">
@@ -73,17 +68,6 @@ author_profile: true
 ## 2.基于多源数据的城市扩张/收缩分析
     
 &emsp;&emsp;面向快速准确地监测我国的城市扩张与收缩的需求，提出一种利用多源开放数据，通过构造和分析不同年份的“自然城市”，进行中国城市扩张与收缩的多维度监测的方法。
-
-
-
-
-
-
-
-<!--<img align="middle" src="/images/图2_2_1.jpg" />-->
-
-
-
 
 
 <table style="margin:0;padding:0;border:0;">
