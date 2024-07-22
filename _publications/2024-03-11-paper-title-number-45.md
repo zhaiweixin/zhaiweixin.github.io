@@ -7,7 +7,7 @@ date: 2024-03-11
 venue: 'Computers and Electronics in Agriculture'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
-citation: '<b>Zhai Weixin</b>, Xiong Xiya, Mo Guozhao, Xiao Yuzhen, Wu Caicong, Xu Zhi, Pan Jiawen. A Bagging-SVM field-road trajectory classification model based on feature enhancement. <i>Computers and Electronics in Agriculture<i>, Volume 217, 2024, 108635.'
+citation: '<b>Zhai Weixin</b>, Xiong Xiya, Mo Guozhao, Xiao Yuzhen, Wu Caicong, Xu Zhi, Pan Jiawen. A Bagging-SVM field-road trajectory classification model based on feature enhancement. <i>Computers and Electronics in Agriculture</i>, Volume 217, 2024, 108635.'
 ---
 
 
