@@ -1,9 +1,9 @@
 ---
 title: "Reconstruction of missing points in agricultural machinery trajectory based on bidirectional adjacent information"
 collection: publications
-permalink: /publication/2024-04-paper-title-number-46
+permalink: /publication/2024-04-12-paper-title-number-46
 excerpt: ''
-date: 2024-04
+date: 2024-04-12
 venue: 'Computers and Electronics in Agriculture'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
