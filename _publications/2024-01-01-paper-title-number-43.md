@@ -1,9 +1,9 @@
 ---
 title: "GAN-BiLSTM network for field-road classification on imbalanced GNSS recordings"
 collection: publications
-permalink: /publication/2024-01-paper-title-number-43
+permalink: /publication/2024-01-01-paper-title-number-43
 excerpt: ''
-date: 2024-01
+date: 2024-01-01
 venue: 'Computers and Electronics in Agriculture'
 
 paperurl: <!--'http://academicpages.github.io/files/paper1.pdf' -->
