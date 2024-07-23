@@ -1,10 +1,9 @@
 ---
 title: "最优化方法（及实验）"
 collection: teaching
-type: "必修课"
+type: "专业必修"
 permalink: /teaching/2020-spring-teaching-1
-venue: "第二学期"
-date: 2023-01-01
+venue: "春季学期"
 location: "东校区"
 ---
 
