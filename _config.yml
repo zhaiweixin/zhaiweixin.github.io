@@ -224,7 +224,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      next: true
       comments: true
   # _portfolio
   - scope:
