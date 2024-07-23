@@ -4,7 +4,6 @@ collection: teaching
 type: "专业必修"
 permalink: /teaching/2020-spring-teaching-1
 venue: "春季学期"
-location: "东校区"
 ---
 
 课程简介
@@ -24,6 +23,3 @@ location: "东校区"
 [第九课 对偶问题](http://zhaiweixin.github.io/files/optimizationmethod/lecture_note_8.pdf)  
 [第十课 罚函数法](http://zhaiweixin.github.io/files/optimizationmethod/lecture_note_9.pdf)  
 [第十一课 整数规划](http://zhaiweixin.github.io/files/optimizationmethod/lecture_note_10.pdf)  
-
-
-
