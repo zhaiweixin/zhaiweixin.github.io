@@ -14,7 +14,7 @@ author_profile: true
 * [程晓雨（硕士）](https://nuonuonn.github.io/nuonuonn/)
 * [付尊元（硕士）](https://fuzunyuan.github.io/)
 * [王翠环（硕士）](https://hr1313dx.github.io/)
-* [雷忠禹（硕士）](leizhongyu.github.io)
+* [雷忠禹（硕士）](https://leizhongyu.github.io/)
 * [于海涛（硕士）](https://moonrulertech.github.io/PersonalPage-Hadley/)
 * [李智超（硕士）](https://lzc1129.github.io)
 
