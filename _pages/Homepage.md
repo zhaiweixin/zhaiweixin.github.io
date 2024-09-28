@@ -47,11 +47,35 @@ Scientific Project
 
 Main research areas
 ======
-* 2009-2013, Peking University, Bachelor of Science
-* 2013-2018, Peking University, Doctor of Science
-* 2018-2020, Peking University, Postdoc (Mathematics)
-* 2016-2017, University of North Carolina at Charlotte, Visiting Scholar
-* 2020-Present，China Agricultural University, Associate Professor
+## 1.Analysis and mining of big data on agricultural machinery trajectories
+    
+&emsp;&emsp;Through the analysis and mining of big data on agricultural machinery trajectories, we can intuitively grasp the spatial distribution and movement speed of wheat harvesters across the country, enabling a complete, objective, and precise understanding of the overall process of wheat and rice harvesting operations. This can provide timely and effective traffic dispersion and emergency support services.  After in-depth mining, it can also quantitatively evaluate the balance of agricultural machinery distribution, utilization rates, and operational benefits in China, revealing the status, characteristics, and issues of China's agricultural machinery socialized services. From a government perspective, this can facilitate macroeconomic regulation, integrate industry resources, and reasonably dispatch agricultural machinery, providing decision-making references for optimizing policies such as agricultural machinery purchase subsidies and operational subsidies
+  
+<table style="margin:0;padding:0;border:0;">
+<tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding-right:5px;border:0;width:58%"><img src="/images/2023热力图.gif"></td><!--大小650像素-->
+    <td style="margin:0;padding:0;border:0;;width:55%"><img src="/images/图1-1-2.gif"></td>
+</tr>
+<tr style="margin:0;padding:0;border:0;">
+    <td style="margin:0;padding:0;border:0;text-align:center;">China's spring wheat harvest hotspot map in 2023</td>
+    <td style="margin:0;padding:0;border:0;text-align:center;">Dynamic display of agricultural machinery trajectory inside farmland</td>
+</tr>
+
+</table>
+
+## 2.Unmanned Agricultural Machinery
+
+&emsp;&emsp;To achieve the full automation of operations across all scenarios and processes in unmanned farms, we are focusing on overcoming the challenges posed by the diversity of unmanned agricultural machinery models, complex tasks, difficulties in adaptation, low operation precision, and lack of intelligent decision-making. We aim to make breakthroughs in key technologies for agricultural machinery operations across the entire machinery shed - machine farming roads - farmland scenario. By developing intelligent and reliable navigation control equipment for unmanned agricultural machinery in all scenarios, we will enable unmanned agricultural machinery to operate and work precisely from the machinery shed to the machine farming roads and then to the farmland, covering tillage, planting, and harvesting. Meanwhile, 3D path planning technology for farms will ensure the efficient and safe movement of agricultural machinery in complex farmland environments. Additionally, precision control technology for agricultural implements will help ensure that agricultural machinery accurately executes instructions during operations, improving the precision and efficiency of work. Finally, the application of intelligent decision-making technology throughout the entire process will enable unmanned agricultural machinery to make intelligent decisions, further enhancing operational effectiveness.
+  
+<video controls="controls" width="auto" height="430">  
+    <source src="/images/无人驾驶视频.mp4" type="video/mp4" />  
+</video>
+
+<div  style="text-align:center;font-size:14px">
+Examples of unmanned agricultural machinery operations in all scenarios
+</div>  
+
+
 
 
 
