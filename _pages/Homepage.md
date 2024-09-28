@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Homepage"
+title: "Profile"
 permalink: /Homepage/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Profile
 ======
 * Name: Weixin Zhai
 * Email: zhaiweixin@cau.edu.cn
