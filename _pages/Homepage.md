@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-======
 * Name: Weixin Zhai
 * Email: zhaiweixin@cau.edu.cn
 * Office Address: Room 717, College of Information and Electrical Engineering, China Agricultural University
@@ -77,4 +76,4 @@ Examples of unmanned agricultural machinery operations in all scenarios
 
 Publications
 ======
-Please refer to https://zhaiweixin.github.io/publications/
+## Please refer to https://zhaiweixin.github.io/publications/
