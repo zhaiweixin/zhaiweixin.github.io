@@ -9,6 +9,7 @@ redirect_from:
 
 Profile
 ======
+* Name: Weixin Zhai
 * Email: zhaiweixin@cau.edu.cn
 * Office Address: Room 717, College of Information and Electrical Engineering, China Agricultural University
 * Mailing Address: College of Information and Electrical Engineering, China Agricultural University, Haidian District, Beijing, China
@@ -75,11 +76,6 @@ Main research areas
 Examples of unmanned agricultural machinery operations in all scenarios
 </div>  
 
-
-
-
-
-
-### 欢迎关注团队微信公众号“中农北斗”
-![avatar](/images/中农北斗.png)
-
+Publications
+======
+Please refer to https://zhaiweixin.github.io/publications/
