@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Personal Profile"
+    url: /Homepage/
+    
   - title: "个人概况"
     url: /cv/
     
