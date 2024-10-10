@@ -2,7 +2,7 @@
 main:
 
   - title: "个人概况"
-    url: /cv/
+    url: /Homepage/
     
   - title: "论文"
     url: /publications/
@@ -37,5 +37,5 @@ main:
     url: /markdown/
 
   - title: "Curriculum Vitae"
-    url: /Homepage/
+    url: /cv/
 
