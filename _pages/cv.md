@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "个人概况"
-permalink: /cv/
+permalink: /Homepage/
 author_profile: true
 redirect_from:
   - /resume
